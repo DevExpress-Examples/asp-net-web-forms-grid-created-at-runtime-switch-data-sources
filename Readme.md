@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # How to bind ASPxGridView created at runtime to different data sources
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2968/)**
+<!-- run online end -->
 
 
 <p>This example shows how to select and bind ASPxGridView to a data source at runtime. In design mode the page contains ASPxRadioButtonList and three data sources (SqlDataSource), not ASPxGridView. The grid will be added to the page at runtime.<br />
