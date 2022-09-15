@@ -18,8 +18,8 @@ The grid's view state is enabled in this example. Because of this, when the grid
 
 ## Files to Review
 
-- [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))
-- [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+- [Default.aspx](./CS/Solution/Default.aspx) (VB: [Default.aspx](./VB/Solution/Default.aspx))
+- [Default.aspx.cs](./CS/Solution/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Solution/Default.aspx.vb))
 
 ## Documentation
 
