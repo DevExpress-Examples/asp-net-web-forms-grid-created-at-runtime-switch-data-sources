@@ -3,7 +3,7 @@ using System;
 using System.Web.UI.WebControls;
 
 namespace Solution {
-    public partial class Default : System.Web.UI.Page {
+    public partial class Default : System.Web.UI.Page { 
 		enum DataSourceType {
 			Products,
 			Categories,
