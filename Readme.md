@@ -10,6 +10,8 @@
 
 This example demonstrates how to add a Grid View control to a page at runtime and conditionally switch its data source. 
 
+![Switch Data Sources](switch-data-sources.png)
+
 ## Implementation Details
 
 The example application's `Default` page contains an [ASPxRadioButtonList](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxRadioButtonList) and three pre-configured data sources ([SqlDataSource](https://docs.microsoft.com/en-us/dotnet/api/system.web.ui.webcontrols.sqldatasource?view=netframework-4.8)). A Grid View control is added to the page in code and bound to the data source that you select from the Radio Button List.
