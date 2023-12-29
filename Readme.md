@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Grid View for ASP.NET Web Forms - How to bind a grid created at runtime to different data sources
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128537808/)**
-<!-- run online end -->
 
 This example demonstrates how to add a Grid View control to a page at runtime and conditionally switch its data source. 
 
